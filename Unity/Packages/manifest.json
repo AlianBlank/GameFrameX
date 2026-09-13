@@ -67,7 +67,7 @@
       "name": "GameFrameX",
       "url": "https://gameframex.upm.alianblank.uk",
       "scopes": [
-        "com.gameframex"
+        "com.gameframex.unity"
       ]
     },
     {
